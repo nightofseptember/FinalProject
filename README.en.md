@@ -2,7 +2,7 @@
 
 
 
-This project is at the core a Website and a Minecraft server. 
+This project is at the core a Website and a Minecraft server with a full backend. 
 
 The Minecraft server runs on Windows Server 2022, which also handles DHCP and backup/secondary DNS. Raspberry Pi is used for the website, primary DNS and MariaDB, 
 
