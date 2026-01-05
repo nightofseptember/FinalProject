@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>
-    <a href="README.en.md">English</a>
-    &nbsp;|&nbsp;
+    <a href="README.en.md">for English click here</a>
+
   </b>
 </p>
 
