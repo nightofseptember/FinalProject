@@ -1,6 +1,13 @@
 # FinalProject - Tverfaglig prosjekt
 
-Dette prosjektet benytter seg av en nettside og en Minecraft-server. Minecraft-serveren kjører på Windows Server 2022, som også håndterer DHCP og backup/sekundær DNS. Raspberry Pi blir brukt for nettside og primær DNS, for å se spesifike komponenter jeg bruker referer til [dette](#Komponenter) og [MVP](#MVP), for sikkerhet se [her](#sikkerhet)
+<p align="center">
+  <b>
+    <a href="README.en.md">English</a>
+    &nbsp;|&nbsp;
+  </b>
+</p>
+
+Dette prosjektet benytter seg av en nettside og en Minecraft-server. Minecraft-serveren kjører på Windows Server 2022, som også håndterer DHCP og backup/sekundær DNS. Raspberry Pi blir brukt for nettside, primær DNS og MariaDB, for å se spesifike komponenter jeg bruker referer til [dette](#Komponenter) og [MVP](#MVP), for sikkerhet se [her](#sikkerhet)
 
 # Start
 - [MVP](#MVP)
